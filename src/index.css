@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300..700&display=swap');
+@import "tailwindcss";
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: #13131F;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@layer utilities {
+  /* Barra de rolagem */
+  ::-webkit-scrollbar {
+    width: 10px; /* Largura da barra */
+  }
+
+  /* Parte da barra de rolagem */
+  ::-webkit-scrollbar-thumb {
+    background-color: #1f1f52; /* Cor da barra */
+    border-radius: 10px; /* Bordas arredondadas */
+    transition: background-color 0.3s;
+  }
+
+  /* Hover sobre a barra de rolagem */
+  ::-webkit-scrollbar-thumb:hover {
+    background-color: #232366; /* Cor ao passar o mouse */
+  }
+
+  /* Trilha da barra de rolagem */
+  ::-webkit-scrollbar-track {
+    background-color: #13131F; /* Cor de fundo da trilha */
+    border-radius: 10px;
+  }
+}
+
+.animate-fadeIn {
+  animation: fadeIn 1s ease-in-out forwards;
+}
+
+.fira-code {
+  font-family: "Fira Code", monospace;
+  font-optical-sizing: auto;
+}
+
+.font-menu-horizontal {
+  font-weight: 200;
+  font-size: 16px;
+}
+
+.font-sobre-mim {
+  font-weight: 400;
+  font-size: 40px;
+}
+
+.bold {
+  font-weight: 600;
+}
+
+.font-logo {
+  font-weight: 500;
+  font-size: 20px;
+}
+
+.font-h1 {
+  font-weight: 500;
+  color: white;
+}
+
+.font-p {
+  font-weight: 200;
+  color: rgb(136, 136, 136);
+}
+
+.font-skills {
+  font-weight: 500;
+  color: rgb(136, 136, 136);
+}
+
+.font-footer {
+  font-weight: 500;
+}
+
+
+
+
