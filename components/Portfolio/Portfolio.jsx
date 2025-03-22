@@ -1,19 +1,19 @@
 import React from 'react';
 import Projects from './Projects';
 
-import MacedoLogo from '../../src/assets/ImagensPortifolios/MacedoFotos/MacedoLogo.png';
-import MacedoNote from '../../src/assets/ImagensPortifolios/MacedoFotos/MacedoNote.png';
-import MacedoPhone from '../../src/assets/ImagensPortifolios/MacedoFotos/MacedoPhone.png'
+import MacedoLogo from '../../src/assets/ImagensPortfolios/MacedoFotos/MacedoLogo.png';
+import MacedoNote from '../../src/assets/ImagensPortfolios/MacedoFotos/MacedoNote.png';
+import MacedoPhone from '../../src/assets/ImagensPortfolios/MacedoFotos/MacedoPhone.png'
 
-import UpLogo from '../../src/assets/ImagensPortifolios/UploadCsvFotos/UpLogo.png';
-import UpNote from '../../src/assets/ImagensPortifolios/UploadCsvFotos/UpNote.png';
+import UpLogo from '../../src/assets/ImagensPortfolios/UploadCsvFotos/UpLogo.png';
+import UpNote from '../../src/assets/ImagensPortfolios/UploadCsvFotos/UpNote.png';
 
-import PortLogo from '../../src/assets/ImagensPortifolios/PortfolioFotos/PortLogo.png'
-import PortPhone from '../../src/assets/ImagensPortifolios/PortfolioFotos/PortPhone.png';
-import PortNote from '../../src/assets/ImagensPortifolios/PortfolioFotos/PortNote.png';
+import PortLogo from '../../src/assets/ImagensPortfolios/PortfolioFotos/PortLogo.png'
+import PortPhone from '../../src/assets/ImagensPortfolios/PortfolioFotos/PortPhone.png';
+import PortNote from '../../src/assets/ImagensPortfolios/PortfolioFotos/PortNote.png';
 
-import Nft from '../../src/assets/ImagensPortifolios/NftFotos/NftLogo.png';
-import NftNote from '../../src/assets/ImagensPortifolios/NftFotos/NftNote.png'
+import Nft from '../../src/assets/ImagensPortfolios/NftFotos/NftLogo.png';
+import NftNote from '../../src/assets/ImagensPortfolios/NftFotos/NftNote.png'
 
 const Portfolio = () => {
   return (
@@ -36,7 +36,7 @@ const Portfolio = () => {
         />
         <Projects 
           images={[PortLogo, PortPhone, PortNote]}
-          title="Portifólio | Rogerio"
+          title="Portfólio | Rogerio"
           description="Este é o meu portfólio! 🚀 As aplicações que utilizei para construí-lo foram React para a estrutura dinâmica, Tailwind CSS para um design moderno e responsivo, além de HTML e CSS para a base do projeto. Tudo foi desenvolvido pensando na melhor experiência para quem acessa. Seja bem-vindo!"
           link="https://portfolio-rogerio-cardoso.netlify.app/"
        />
