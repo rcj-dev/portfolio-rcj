@@ -15,7 +15,7 @@ Este portfólio foi criado para apresentar minha experiência e meus trabalhos c
 
 ## 📸 Captura de Tela
 
-> ![Captura de tela do portfólio](src/assets/ImagensPortfolios/PorfolioFotos/PortNote.png)
+> ![Captura de tela do portfólio](portfolio_react/src/assets/ImagensPortfolios/PorfolioFotos/PortNote.png)
   
 
 ## 🌍 Deploy
