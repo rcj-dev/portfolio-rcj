@@ -8,7 +8,7 @@ import Js from "../../src/assets/ImagensSkills/javascript.svg";
 import Rc from "../../src/assets/ImagensSkills/react.svg";
 import Figma from "../../src/assets/ImagensSkills/figma.svg";
 import Tail from "../../src/assets/ImagensSkills/tailwind.svg";
-import Vt from "../../src/assets/ImagensSkills/vite.svg";
+import Py from "../../src/assets/ImagensSkills/python.svg";
 
 export const Skills = () => {
   const [isVisible, setIsVisible] = useState(false);
@@ -36,7 +36,7 @@ export const Skills = () => {
     { icon: Git, text: "github", hoverClass: "hover:drop-shadow-[0_0_25px_rgba(192,196,206,1)]" },
     { icon: Figma, text: "figma", hoverClass: "hover:drop-shadow-[0_0_25px_rgba(255,114,55,1)]" },
     { icon: Tail, text: "tailwind", hoverClass: "hover:drop-shadow-[0_0_25px_rgba(57,150,219,1)]" },
-    { icon: Vt, text: "vite", hoverClass: "hover:drop-shadow-[0_0_25px_rgba(189,52,254,1)]" },
+    { icon: Py, text: "python", hoverClass: "hover:drop-shadow-[0_0_25px_rgba(234,189,95,1)]" },
   ];
 
   return (
