@@ -1,6 +1,6 @@
-# 🌟 Meu Portfólio
+# 🌟 Portfólio | Rogerio Cardoso Junior
 
-🚀 Bem-vindo ao meu portfólio de desenvolvedor! Aqui você encontrará informações sobre mim, minhas habilidades e projetos que desenvolvi.
+🚀 Bem-vindo ao meu portfólio! Aqui você encontra informações sobre este projeto e tecnologias que utilizei
 
 ## 🖥️ Sobre o Projeto
 
@@ -15,7 +15,8 @@ Este portfólio foi criado para apresentar minha experiência e meus trabalhos c
 
 ## 📸 Captura de Tela
 
-> *(Inclua aqui uma imagem ou GIF mostrando a interface do seu portfólio!)*  
+> ![Captura de tela do portfólio](src/assets/ImagensPortfolios/PorfolioFotos/PortNote.png)
+  
 
 ## 🌍 Deploy
 
