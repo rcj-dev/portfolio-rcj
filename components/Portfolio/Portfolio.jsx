@@ -10,7 +10,7 @@ import UpNote from '../../src/assets/ImagensPortifolios/UploadCsvFotos/UpNote.pn
 
 import PortLogo from '../../src/assets/ImagensPortifolios/PortfolioFotos/PortLogo.png'
 import PortPhone from '../../src/assets/ImagensPortifolios/PortfolioFotos/PortPhone.png';
-import PortNote from '../../src/assets/ImagensPortifolios/PortfolioFotos/portNote.png';
+import PortNote from '../../src/assets/ImagensPortifolios/PortfolioFotos/PortNote.png';
 
 import Nft from '../../src/assets/ImagensPortifolios/NftFotos/NftLogo.png';
 import NftNote from '../../src/assets/ImagensPortifolios/NftFotos/NftNote.png'
