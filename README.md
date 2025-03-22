@@ -21,10 +21,10 @@ Este portfólio foi criado para apresentar minha experiência e meus trabalhos c
 ## 🌍 Deploy
 
 O portfólio está disponível online! Você pode acessá-lo aqui:  
-🔗 **[Meu Portfólio]([https://meuportfolio.vercel.app/](https://portfolio-rogerio-cardoso.netlify.app/))** 
+🔗 **[Meu Portfólio](https://portfolio-rogerio-cardoso.netlify.app/)** 
 
 ## 📬 Contato
 
 💼 **Nome:** Rogerio Cardoso Junior  
 📧 **Email:** [rcjunior018@gmail.com](mailto:rcjunior018@gmail.com)  
-🔗 **LinkedIn:** [](https://www.linkedin.com/in/rogerio-cardoso-junior/)  
+🔗 **LinkedIn:** [Acesse aqui](https://www.linkedin.com/in/rogerio-cardoso-junior/)  
