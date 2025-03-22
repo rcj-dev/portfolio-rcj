@@ -34,7 +34,6 @@ export const Navbar = () => {
           left-0 
           right-0 
           p-4
-
           md:flex-row 
           md:gap-15 
           md:relative 

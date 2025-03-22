@@ -24,24 +24,27 @@ const Portfolio = () => {
 
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-10 p-4 w-full place-items-center">
         <Projects 
-          images={[MacedoLogo, MacedoPhone,MacedoNote]} // Apenas duplicando para teste
+          images={[MacedoLogo, MacedoPhone,MacedoNote]}
           title="Macedo Clínicas"
           description="Projeto real para a empresa Macedo Clínicas, visando uma apresentação profissional de sua empresa de estética e odontologia. Foram utilizadas aplicações como HTML, CSS, JAVASCRIPT, REACT, TAILWIND e FIGMA."
         />
+
         <Projects 
-          images={[UpLogo, UpNote]} // Apenas duplicando para teste
+          images={[UpLogo, UpNote]}
           title="Upload CSV"
           description="Esta é uma aplicação WEB desenvolvida em HTML, CSS, JAVASCRIPT, PYTHON e SQLITE. Ela permite o upload de um arquivo CSV pré-definido que e armazena os dados em um banco de dados SQLite."
           link="https://upbussines.netlify.app/"
         />
+
         <Projects 
           images={[PortLogo, PortPhone, PortNote]}
           title="Portfólio | Rogerio"
           description="Este é o meu portfólio! 🚀 As aplicações que utilizei para construí-lo foram React para a estrutura dinâmica, Tailwind CSS para um design moderno e responsivo, além de HTML e CSS para a base do projeto. Tudo foi desenvolvido pensando na melhor experiência para quem acessa. Seja bem-vindo!"
           link="https://portfolio-rogerio-cardoso.netlify.app/"
        />
+
         <Projects 
-          images={[Nft, NftNote]} // Apenas duplicando para teste
+          images={[Nft, NftNote]}
           title="NFT Project"
           description="Este é o meu projeto NFT! 🖼️ Trata-se de um layout simples para um sistema de venda de NFTs, desenvolvido com HTML e CSS. O foco foi criar uma interface visual agradável, sem funcionalidades avançadas, apenas a estrutura do front-end. "
         />

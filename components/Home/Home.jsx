@@ -23,6 +23,7 @@ export const Home = () => {
         clearInterval(interval);
       }
     }, 50);
+    
     return () => clearInterval(interval);
   }, []);
 

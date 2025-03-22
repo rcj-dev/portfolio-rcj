@@ -19,7 +19,6 @@ const BotaoContato = (props) => {
         duration-600
         w-full
         h-full
-
         flex
         items-center
         justify-between

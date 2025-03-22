@@ -16,12 +16,10 @@ export const Contato = () => {
       </div>
 
       <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 w-full max-w-[90%] md:max-w-[80%] lg:max-w-[60%]">
-       
         <BotaoContato text="whatsapp" icon={Whatsapp} link="https://wa.me/qr/C26R5JGRGNI2F1"/>
         <BotaoContato text="github" icon={Git} link="https://github.com/rcj-dev" />
         <BotaoContato text="linkedin" icon={Linkedin} link="https://www.linkedin.com/in/rogerio-cardoso-junior/"/>
         <BotaoContato text="email" icon={Email} link="mailto:rcjunior018@gmail.com?subject=Contato&body=Olá, Rogerio!"/>
-
       </div>
 
     </div>
